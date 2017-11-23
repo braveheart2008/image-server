@@ -1,1 +1,4 @@
-public class good {}
+public class good {
+    private Float price;
+
+}
