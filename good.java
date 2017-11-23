@@ -1,1 +1,3 @@
-public class good {}
+public class good {
+    private String name;
+}
